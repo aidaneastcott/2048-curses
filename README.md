@@ -15,4 +15,4 @@ A text-based 2048 game for the terminal written in C with [curses](https://en.wi
 A compatible curses library. Tested on Windows using [PDCurses v3.9](https://github.com/wmcbrine/PDCurses) by William McBrine.
 
 ## License
-Licensed under MIT.
+Licensed under [MIT](LICENSE).
