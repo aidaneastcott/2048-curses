@@ -2,6 +2,7 @@
 
 ## Overview
 A text-based 2048 game for the terminal written in C with [curses](https://en.wikipedia.org/wiki/Curses_(programming_library)).
+![sample gif](https://raw.githubusercontent.com/aidaneastcott/2048-curses/main/resources/sample.gif)
 
 ## Features
 - Controls using WASD or arrow keys
