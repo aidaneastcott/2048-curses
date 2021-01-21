@@ -3,6 +3,8 @@
 ## Overview
 A text-based 2048 game for the terminal written in C with [curses](https://en.wikipedia.org/wiki/Curses_(programming_library)).
 
+![Sample GIF](resources/sample.gif)
+
 ## Features
 - Controls using WASD or arrow keys
 - Customizable board size by editing macros
