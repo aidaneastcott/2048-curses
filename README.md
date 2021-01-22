@@ -1,4 +1,4 @@
-# 2048-curses
+# 2048 Curses
 
 ## Overview
 A text-based 2048 game for the terminal written in C with [curses](https://en.wikipedia.org/wiki/Curses_(programming_library)).
